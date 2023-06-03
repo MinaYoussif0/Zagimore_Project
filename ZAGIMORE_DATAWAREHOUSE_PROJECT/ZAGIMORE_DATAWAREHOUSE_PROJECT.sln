@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ZAGIMORE_DATAWAREHOUSE_PROJECT", "ZAGIMORE_DATAWAREHOUSE_PROJECT\ZAGIMORE_DATAWAREHOUSE_PROJECT.dtproj", "{E4E55F38-0799-4044-B75E-D6EA55767783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E55F38-0799-4044-B75E-D6EA55767783}.Development|Default.ActiveCfg = Development
+		{E4E55F38-0799-4044-B75E-D6EA55767783}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58371A5C-0F03-46C8-927C-6DEEF96864B5}
+	EndGlobalSection
+EndGlobal
